@@ -11,5 +11,3 @@ space_age <- function(seconds, planet) {
   return(age)
 }
 
-
-space_age(1000000000,"earth")
